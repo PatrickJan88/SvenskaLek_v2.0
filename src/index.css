@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 @layer base {
   html {
@@ -75,3 +76,5 @@
     display: none;
   }
 }
+=======
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c

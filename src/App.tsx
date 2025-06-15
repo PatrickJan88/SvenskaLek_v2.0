@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
@@ -26,3 +27,28 @@ function App() {
 }
 
 export default App;
+=======
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import About from './components/About';
+import Menu from './components/Menu';
+import Gallery from './components/Gallery';
+import Testimonials from './components/Testimonials';
+import Reservation from './components/Reservation';
+
+function App() {
+  return (
+    <div className="min-h-screen bg-white">
+      <Navbar />
+      <Hero />
+      <Menu />
+      <About />
+      <Gallery />
+      <Testimonials />
+      <Reservation />
+    </div>
+  );
+}
+
+export default App;
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c

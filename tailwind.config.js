@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+<<<<<<< HEAD
   darkMode: 'class', // Enable class-based dark mode
   theme: {
     extend: {
@@ -105,8 +106,14 @@ export default {
   },
   plugins: [],
 };
+=======
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c
   theme: {
     extend: {},
   },
   plugins: [],
+<<<<<<< HEAD
 ;
+=======
+};
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c

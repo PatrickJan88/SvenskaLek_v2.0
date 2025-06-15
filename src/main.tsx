@@ -1,6 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { BrowserRouter } from 'react-router-dom';
 import App from './App.tsx';
 import './index.css';
@@ -28,6 +29,8 @@ createRoot(document.getElementById('root')!).render(
   </StrictMode>
 );
 =======
+=======
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c
 import App from './App.tsx';
 import './index.css';
 
@@ -36,4 +39,7 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>
 );
+<<<<<<< HEAD
+>>>>>>> ea369cdf3201543a89b097096747d2adc35b274c
+=======
 >>>>>>> ea369cdf3201543a89b097096747d2adc35b274c
