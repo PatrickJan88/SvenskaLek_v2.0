@@ -105,3 +105,8 @@ export default {
   },
   plugins: [],
 };
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+;
