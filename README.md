@@ -9,5 +9,6 @@ What’s New in Version 2.0:
 * Word Categorization — Vocabulary is now organized by thematic groups.
 * Swedish Learning Podcast is now available directly on the homepage.
 
-
+Live Demo
+Try the app here: https://papaya-cat-9382bf.netlify.app
 
